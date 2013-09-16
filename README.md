@@ -1,4 +1,4 @@
-yandex-dns-manager
+Yandex dns manager
 ==================
 
-yandex-dns-manager
+Just project
